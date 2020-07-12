@@ -4,7 +4,7 @@
 
 Introduction - 5 minutes
 
-What is DevOps? - 15 minutes
+[What is DevOps?](code-clan-devops-day.pptx) - 15 minutes
 
 Docker 101 - 20-30 minutes
 Docker 101 Lab - 20 minutes

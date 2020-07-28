@@ -89,7 +89,7 @@ Now we can enter our container and, since all other required gems are installed,
 To avoid using the different IDs for the containers, we can give them any names we want to identify them by:
 
 ```shell
-docker build sinatra_demo .
+docker build -t sinatra_demo .
 ```
 
 Here we could potentially add a tag to our container if we want to with the `-t` flag- like a version number.
